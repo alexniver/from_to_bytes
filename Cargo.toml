@@ -1,6 +1,6 @@
 [package]
 name = "from_to_bytes"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["zhulin<zhulin10541@gmail.com>"]
 description = "trait for convert between bytes and <T>."
