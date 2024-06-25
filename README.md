@@ -1,6 +1,6 @@
 trait for convert between bytes and <T>.
 
 ## FromBytes
-convert bytes to <T>
+convert `[u8]` to `<T>`
 ## ToBytes
-convert <T> to bytes
+convert `<T>` to `[u8]`
