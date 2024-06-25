@@ -2,8 +2,7 @@
 name = "from_to_bytes"
 version = "0.1.0"
 edition = "2021"
-authors = ["zhulin<zhulin10542@gmail.com>"]
-edition = "2021"
+authors = ["zhulin<zhulin10541@gmail.com>"]
 description = "trait for convert between bytes and <T>."
 license = "MIT OR Apache-2.0"
 repository = "https://github.com/alexniver/from_to_bytes.git"
