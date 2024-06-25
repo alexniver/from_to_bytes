@@ -1,4 +1,4 @@
-trait for convert between bytes and <T>.
+trait for convert between `[u8]` and `<T>`.
 
 ## FromBytes
 convert `[u8]` to `<T>`
